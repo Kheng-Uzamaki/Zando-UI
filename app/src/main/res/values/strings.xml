@@ -1,0 +1,89 @@
+<resources>
+<!--    Profile Screen-->
+    <string name="app_name">Zando</string>
+    <string name="profile_me">Me</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOG OUT</string>
+    <string name="language">Languages</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="settings">Settings</string>
+
+<!--    Login Screen-->
+    <string name="existing_customer">EXISTING CUSTOMER</string>
+    <string name="mobile_number">Mobile Number or Username</string>
+    <string name="password">Password</string>
+    <string name="login_screen_button">LOG IN</string> <!-- Renamed to avoid conflict -->
+    <string name="forgot_password">Forgot your password?</string>
+
+<!--     Register Screen -->
+    <string name="register_title">Register</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="mobile">Mobile number</string>
+    <string name="email">Email</string>
+    <string name="birthdate">Birthdate (DD/MM/YYYY)</string>
+    <string name="birthdate_note">By providing birthdate, claim extra 10% off on your birthday</string>
+    <string name="country">Country</string>
+    <string name="city">City / province</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="close">Close</string>
+
+<!--    Wish List-->
+    <string name="wish_list">Wish List</string>
+    <string name="empty_wish_list">Aww ...Snap. Your wish list is empty!</string>
+    <string name="wish_list_description">Check out our latest arrivals and stay up to date with our latest styles!</string>
+    <string name="start_shopping">Start Shopping</string>
+
+<!--    Search Screen-->
+    <string name="search">Search</string>
+    <string name="search_text">What are you searching for?</string>
+
+<!--    Menu Screen-->
+    <string name="menu_women">WOMEN</string>
+    <string name="menu_men">MEN</string>
+
+<!--    Box collection-->
+    <string name="col_men">Men Collection</string>
+    <string name="col_women">Women Collection</string>
+
+<!--    Product Section-->
+    <string name="pro_sec">New Arrival!</string>
+    <string name="pro_more">Shop More</string>
+
+<!--    Nav Bar-->
+    <string name="home_nav">Home</string>
+    <string name="menu_nav">Menu</string>
+    <string name="search_nav">Search</string>
+    <string name="wish_nav">Wish List</string>
+    <string name="me_nav">Me</string>
+
+<!--    Contact US-->
+    <string name="contact_us_screen">Contact US</string>
+    <string name="contact_title">Please let us know if you have any questions.</string>
+    <string name="contact_email">Email us</string>
+    <string name="phone">Phone us</string>
+    <string name="facebook">Facebook</string>
+    <string name="telegram">Telegram</string>
+
+<!--    Product Details-->
+    <string name="pro_detail">Product Details</string>
+    <string name="pro_desc">A stylish and comfortable running shoe designed with the latest technology.</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy">Buy Now</string>
+    <string name="select_size">Select Size:</string>
+
+<!--    Footer-->
+    <string name="footer_loyal">LOYALTY</string>
+    <string name="footer_member">Membership &amp; Benefits</string>
+    <string name="footer_follow">Follow Us</string>
+    <string name="footer_services">CUSTOMER SERVICES</string>
+    <string name="footer_exchange">Online exchange policy</string>
+    <string name="footer_contact">Contact Us</string>
+    <string name="footer_accept">WE ACCEPT</string>
+</resources>
+

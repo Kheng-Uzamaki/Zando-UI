@@ -1,0 +1,89 @@
+<resources>
+<!--    Profile Screen-->
+    <string name="app_name">Zando</string>
+    <string name="profile_me">ខ្ញុំ</string>
+    <string name="register">ចុះឈ្មោះ</string>
+    <string name="login">ចូល</string>
+    <string name="logout">ចាកចេញ</string>
+    <string name="language">ភាសា</string>
+    <string name="dark_mode">របៀបងងឹត</string>
+    <string name="contact_us">ទាក់ទងមកយើង</string>
+    <string name="settings">ការកំណត់</string>
+
+<!--    Login Screen-->
+    <string name="existing_customer">អតិថិជនដែលមានស្រាប់</string>
+    <string name="mobile_number">លេខទូរស័ព្ទ ឬ ឈ្មោះអ្នកប្រើ</string>
+    <string name="password">លេខសម្ងាត់</string>
+    <string name="login_screen_button">ចូល</string>
+    <string name="forgot_password">ភ្លេចលេខសម្ងាត់?</string>
+
+<!--     Register Screen -->
+    <string name="register_title">ចុះឈ្មោះ</string>
+    <string name="gender">ភេទ</string>
+    <string name="male">បុរស</string>
+    <string name="female">ស្រី</string>
+    <string name="first_name">នាមខ្លួន</string>
+    <string name="last_name">នាមត្រកូល</string>
+    <string name="mobile">លេខទូរស័ព្ទ</string>
+    <string name="email">អ៊ីម៉ែល</string>
+    <string name="birthdate">ថ្ងៃខែឆ្នាំកំណើត (DD/MM/YYYY)</string>
+    <string name="birthdate_note">ដោយផ្ដល់ថ្ងៃកំណើត អ្នកអាចទទួលការបញ្ចុះតម្លៃ ១០% នៅថ្ងៃខែឆ្នាំកំណើត</string>
+    <string name="country">ប្រទេស</string>
+    <string name="city">ខេត្ត / ក្រុង</string>
+    <string name="create_account">បង្កើតគណនី</string>​
+    <string name="close">បិទ</string>
+
+<!--    Wish List-->
+    <string name="wish_list">បញ្ជីចង់បាន</string>
+    <string name="empty_wish_list">អូ... ទេ! បញ្ជីចង់បានរបស់អ្នកទំនេរ។</string>
+    <string name="wish_list_description">សូមពិនិត្យមើលទំនិញថ្មីៗរបស់យើង និងអនុវត្តតាមបែបនិយមថ្មី!</string>
+    <string name="start_shopping">ចាប់ផ្តើមទិញទំនិញ</string>
+
+    <!--    Search Screen-->
+    <string name="search">ស្វែងរក</string>
+    <string name="search_text">អ្នកកំពុងស្វែងរកអ្វី?</string>
+
+    <!--    Menu Screen-->
+    <string name="menu_women">នារី</string>
+    <string name="menu_men">បុរស</string>
+
+    <!--    Box collection-->
+    <string name="col_men">ប្រភេទបុរស</string>
+    <string name="col_women">ប្រភេទស្ត្រី</string>
+
+<!--    Product Section-->
+    <string name="pro_sec">មកដល់ថ្មី!</string>
+    <string name="pro_more">ទិញបន្ថែម</string>
+
+<!--    Nav bar-->
+    <string name="home_nav">ទំព័រដើម</string>
+    <string name="menu_nav">បញ្ជី</string>
+    <string name="search_nav">ស្វែងរក</string>
+    <string name="wish_nav">បញ្ជីបំណង</string>
+    <string name="me_nav">ខ្ញុំ</string>
+
+    <!--    Contact US-->
+    <string name="contact_us_screen">ទំនាក់ទំនងមកយើង</string>
+    <string name="contact_title">សូមប្រាប់យើងបើអ្នកមានសំណួរ</string>
+    <string name="contact_email">អ៊ីមែលមកយើង</string>
+    <string name="phone">ទូរស័ព្ទមកយើង</string>
+    <string name="facebook">ហ្វេសប៊ុក</string>
+    <string name="telegram">តែលេក្រាម</string>
+
+    <!--    Product Details-->
+    <string name="pro_detail">ព័ត៌មានលម្អិតអំពីផលិតផល</string>
+    <string name="pro_desc">ស្បែកជើងរត់ដែលមានស្តាយនិងសម្រួលដែលត្រូវបានរចនាជាមួយបច្ចេកវិទ្យាថ្មីបំផុត</string>
+    <string name="add_to_cart">បន្ថែមទៅក្នុងកញ្ចប់</string>
+    <string name="buy">ទិញឥឡូវនេះ</string>
+    <string name="select_size">ជ្រើសរើសទំហំ:</string>
+
+<!--    Footer-->
+    <string name="footer_loyal">ភាពស្មោះត្រង់</string>
+    <string name="footer_member">សមាជិកភាព និងអត្ថប្រយោជន៍</string>
+    <string name="footer_follow">តាមដានពួកយើង</string>
+    <string name="footer_services">សេវាកម្មអតិថិជន</string>
+    <string name="footer_exchange">គោលការណ៍ដូរផលិតផលអនឡាញ</string>
+    <string name="footer_contact">ទាក់ទងមកយើង</string>
+    <string name="footer_accept">យើងទទួល</string>
+
+</resources>
